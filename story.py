@@ -5,3 +5,4 @@ print(
 print(
     "'Well Samuel,' said Ben earnestly, 'Lets see what mysticism we can add to your experience.'"
 )
+ print ("I dream to ruled the world and end the pain of capitalism")
