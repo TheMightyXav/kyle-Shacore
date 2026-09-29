@@ -22,3 +22,6 @@ print(
 print(
     "Samuel was a great student all around. He took these concepts to new heights. CEOs across the globe began to catch word of a mysterious figure collecting shares across all of their companies. Small amounts at first, but overtime they grew into something that even Sam could'nt articulate to anyone he knew."
 )
+print(
+    "He spent the rest of his days preparing his children to carry on his legacy and instill generational wealth in them the Barkins name will live on he said "
+)
