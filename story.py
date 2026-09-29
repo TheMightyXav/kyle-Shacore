@@ -12,3 +12,6 @@ print(
 print(
     " Eager look in his eyes inside he was nervous this been a long journey to get here"
 )
+print(
+    "Samuel sat there and took everything in. He was happy to learn the methods to the madness of the world, but it still felt overwhelming to him. Still, he demanded power, and this was the way to get it."
+)
