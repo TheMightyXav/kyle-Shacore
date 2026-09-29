@@ -9,3 +9,6 @@ print("I dream to ruled the world and end the pain of capitalism")
 print(
     "Ben walked over gingerly, prepared to teach the whims of world domination to this new blood."
 )
+print(
+    " Eager look in his eyes inside he was nervous this been a long journey to get here"
+)
