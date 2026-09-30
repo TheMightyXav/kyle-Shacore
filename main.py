@@ -1,1 +1,1 @@
-# Code your solutions in this file
+print("Written by Kyle and Shacore")

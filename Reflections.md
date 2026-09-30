@@ -13,9 +13,13 @@ error messages, commit messages) count for more than general definitions.
    what actually happened? Using what you know now, explain *why* git rejected
    the push. Then explain what `git pull` did that the push couldn't.
 
+   So in that scenario, having already uploaded my own modified files, anything that Self was trying to also upload was rejected. This was because the changes that I made to the online repository were not automatically translated into his local repo. Github could not accept push commands until Self had run the 'git pull' command, which updated his local repo to match the version that had my modified code in it as well.
+
 3. **Resolving a conflict.** Pick one of the two conflicts you resolved
    (Round 1 or Round 2). How did you and your partner decide what to keep?
    How did you confirm the resolution was correct before pushing?
+
+   
 
 4. **Getting unstuck.** Describe one moment when something didn't work or
    didn't match what you expected, in the warm-up or while writing the story.
