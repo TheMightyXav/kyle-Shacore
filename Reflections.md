@@ -6,6 +6,8 @@ error messages, commit messages) count for more than general definitions.
    `git add`, after `git commit`, after `git push`, and after your partner runs
    `git pull`. At which point can your partner see your work?
 
+   The code that I have written exists only on my local machine until it is sent to github. The command 'git add' takes the code and prepares it to be sent out, placing the files that I want to send out into the Staging Area. from there, I can enter the command 'git commit' to verify that these are the files that I want to send out and that I will not be editing them further. Following that, I enter 'git push' to finally send these files to the Github Repository of my choosing. If I want to access these files from a different device or have a teammate download them, either I, on my new device, or my teammate would have to enter the command 'git pull' after cloning that repository so that all updates to the code in question are properly downloaded.
+
 2. **Your predictions vs. reality.** In Round 1, step 5, you each predicted
    what would happen when Partner B pushed. What did each of you predict, and
    what actually happened? Using what you know now, explain *why* git rejected
