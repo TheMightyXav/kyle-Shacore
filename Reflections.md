@@ -36,5 +36,4 @@ There was an instance where we were having difficulty getting our shared reposit
    explain: if five people were working in this repo instead of two, why would
    clear commit messages and pulling before you start matter even more?
 
-
    
