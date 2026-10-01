@@ -18,7 +18,7 @@ error messages, commit messages) count for more than general definitions.
 3. **Resolving a conflict.** Pick one of the two conflicts you resolved
    (Round 1 or Round 2). How did you and your partner decide what to keep?
    How did you confirm the resolution was correct before pushing?
-
+ One problem we had while doing the assignment was getting the git pull to show on the other partner's github repository. Which lead us to be confuse for a little while we took a break and came back to the problem with a new mind intact we ask for help from our fellow classmates which allow us to see our errors and rectify the problem and find the solution. One of us ran git push to send the file which allow the other one to finally run git pull so they can save and download the information. 
 
 
 4. **Getting unstuck.** Describe one moment when something didn't work or
