@@ -135,7 +135,7 @@ error messages, commit messages) count for more than general definitions.
    weak one here (you don't need to change the message on GitHub). Then
    explain: if five people were working in this repo instead of two, why would
    clear commit messages and pulling before you start matter even more?
-
+   
 ## Instructions
 
 Read all of these before you start. There are four parts:
