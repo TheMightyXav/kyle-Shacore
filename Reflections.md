@@ -36,4 +36,4 @@ There was an instance where we were having difficulty getting our shared reposit
    explain: if five people were working in this repo instead of two, why would
    clear commit messages and pulling before you start matter even more?
 
-   
+   The least useful commit message would be "Samuel Barkins," because that was a recurring commit title that did not reflect the contents of each commit. It did not articulate what was changed between versions, and anyone looking back would need to open each commit independently to see what the changes actually were.
