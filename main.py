@@ -1,6 +1,8 @@
 print("Written by Kyle and Shacore")
-print("Title: ")
-print("Setting: ")
+print("Title: Passes Through Time")
+print(
+    "Setting: A location similar to Hogwarts, though far more influenced by advancements in technology."
+)
 print("Ben started another lovely day at Marcy!")
 print(
     "I was late good morning my name is sameual Barkins first of my name prince of the andals and the first men and you ben will teach me this sorcery you speak of called software engineering"
